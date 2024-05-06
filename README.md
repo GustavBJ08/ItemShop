@@ -1,12 +1,12 @@
-CID_639_Athena_Commando_F_NeonAnimal, 1500
-CID_523_Athena_Commando_F_Cupid, 1500
-EID_AfroHouse, 500
+CID_033_Athena_Commando_F_Medieval, 2500
+CID_110_Athena_Commando_F_CircuitBreaker, 2500
+EID_HipHopS7, 1000
 na
 na
 na
-Glider_ID_071_Football, 500
-Glider_ID_052_Bedazzled, 500
-EID_WIR, 500
-Pickaxe_ID_267_RaptorBlackOps, 800
-Pickaxe_ID_136_Math, 800
-CID_685_Athena_Commando_M_TundraYellow, 1200
+EID_CycloneHeadBang, 500
+Glider_ID_206_Donut, 1800
+EID_StringDance, 500
+EID_CrackshotClock, 800
+Pickaxe_ID_300_Mastermind, 800
+Pickaxe_ID_365_SpyTechHackerMale, 1200
